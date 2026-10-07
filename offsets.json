@@ -1,0 +1,8 @@
+{
+  "version": "2.654.0",
+  "offsets": {
+    "FFlagDebugDisableTelemetry": "0x1A2B3C",
+    "FIntRolloutEnableHttpCaching": "0x4D5E6F",
+    "FFlagGraphicsGLTextureReductionAmount": "0x7A8B9C"
+  }
+}
